@@ -1,0 +1,1 @@
+def get_vor_residues(vor_out):    """Extracts the amono acids and its positions, predicted in the Voronoi analysis. """        res_list = [line.rstrip().split() for line in open(vor_out)]    return res_list

@@ -1,0 +1,6 @@
+numpy
+pyKVFinder
+Bio
+MDAnalysis
+scipy
+matplotlib

@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: CavPred
+Version: 1.0.0
+Summary: This package predicts the possible binding sites of a pdb protein using a geometrical approach.
+Home-page: https://github.com/emunozdc/juannes-predictor
+Author: Anna Basquet, Juana Munoz, Ester Munoz
+Author-email: anna.basquet01@estudiant.upf.edu, juanacamila.munoz01@estudiant.upf.edu, ester.munoz01@estudiant.upf.edu
+Classifier: Programming Language :: Python :: 3.10
